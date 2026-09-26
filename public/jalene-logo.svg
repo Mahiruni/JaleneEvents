@@ -1,14 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
-<title>Jalene Decor &amp; Event</title><desc>Jalene monogram and gold wordmark on navy.</desc>
-<rect width="900" height="330" rx="18" fill="#0B1228"/>
+<title>Jalene Decor &amp; Event</title><desc>Jalene monogram and gold wordmark.</desc>
 <g fill="none" stroke="#D8B15B" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
-<path d="M78 102 Q175 22 272 102"/>
-<path d="M101 101 Q175 45 249 101"/>
-<path d="M78 228 Q175 308 272 228"/>
-<path d="M101 229 Q175 285 249 229"/>
+<path d="M78 102 Q175 22 272 102"/><path d="M101 101 Q175 45 249 101"/>
+<path d="M78 228 Q175 308 272 228"/><path d="M101 229 Q175 285 249 229"/>
 <path d="M126 123 V204 Q126 246 167 246 Q208 246 208 204 V123"/>
-<path d="M236 123 H198 V246 H260"/>
-<path d="M236 184 H205"/>
+<path d="M236 123 H198 V246 H260"/><path d="M236 184 H205"/>
 </g>
 <text x="325" y="167" fill="#D8B15B" font-family="Georgia,serif" font-size="88" letter-spacing="7">JALENE</text>
 <text x="331" y="222" fill="#D8B15B" font-family="Georgia,serif" font-size="27" letter-spacing="8">DECOR &amp; EVENT</text>
